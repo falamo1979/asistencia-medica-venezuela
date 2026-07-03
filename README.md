@@ -24,4 +24,4 @@ Sistema web para el registro de consultas médicas, pacientes y tratamientos. Di
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/falamo1979/asistencia-medica-venezuela.git
-cd asistencia-medica-venezuela
+cd asistencia-medica-venezuela# asistencia-medica-venezuela
