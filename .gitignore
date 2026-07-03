@@ -42,3 +42,5 @@ package-lock.json
 *.sql
 *.dump
 backup/
+# Config local de Claude Code
+.claude/
